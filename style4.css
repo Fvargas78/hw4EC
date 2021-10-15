@@ -94,6 +94,10 @@ th {
     background-color: #800000;
     color: #FFFFFF;
 }
-output{
-    font-family: monospace;
+#prompt {
+    margin-top: 10px;
+}
+#square td {
+    height: 20px;
+    width: 20px;
 }
